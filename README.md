@@ -73,7 +73,7 @@ This repository contains only the **unit testing component** of the project. The
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <>
    ```
 2. Install dependencies:
    ```bash
