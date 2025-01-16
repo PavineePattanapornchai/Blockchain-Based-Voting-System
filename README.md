@@ -12,7 +12,7 @@ The Blockchain-Based Voting System provides a secure and transparent voting plat
 - **Ballot Casting**
 - **Result Tallying**
 
-This repository contains only the **unit tests** developed for the project. **Other parts of the project, such as contract development, deployment, and additional features, are not included here, as they were handled by other team members.**
+This repository contains only the **unit tests** developed for the project. **Other parts of the project, such as contract development, deployment, and additional features, are not included here because they contain valuable information.**
 
 ---
 
