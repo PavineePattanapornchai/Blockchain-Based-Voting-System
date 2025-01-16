@@ -67,23 +67,3 @@ The following test coverage was achieved:
 
 This repository contains only the **unit testing component** of the project. The other components, such as contract development, deployment, and additional testing layers, are managed by other team members and are not part of this repository.
 
----
-
-## **Getting Started**
-
-1. Clone the repository:
-   ```bash
-   git clone <>
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Run the tests:
-   ```bash
-   npx hardhat test
-   ```
-4. View coverage:
-   ```bash
-   npx hardhat coverage
-   ```
